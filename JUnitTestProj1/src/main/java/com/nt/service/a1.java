@@ -3,7 +3,7 @@ public class a1
 {
 	public String Sayhello()
 	{
-		return "Hello From Developer1";
+		return "GoodMorning";
 	}
 }
 
