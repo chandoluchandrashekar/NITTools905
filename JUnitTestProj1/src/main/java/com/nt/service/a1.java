@@ -1,5 +1,4 @@
 package com.nt.service;
-
 public class a1 
 {
 	public String Sayhello()
@@ -7,3 +6,4 @@ public class a1
 		return "Hello From Dev1";
 	}
 }
+
